@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Reflection.Emit;
     
 namespace EmitCalculator
@@ -26,10 +26,7 @@ namespace EmitCalculator
     
         private void GenerateMethod(Type t)
         {
-            method = new DynamicMethod("Calc", 
-                                       t,
-                                       new Type[] {t, t, t, t},
-                                       t);
+            method = new DynamicMethod("Calc", t, new Type[] {t, t, t, t}, t);
             gen = method.GetILGenerator();
             position = 0;
             GenerateCode();
