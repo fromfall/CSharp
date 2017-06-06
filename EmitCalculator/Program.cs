@@ -26,10 +26,10 @@ namespace EmitCalculator
     
         private void GenerateMethod(Type t)
         {
-            method = new DynamicMethod("Caclulate", 
+            method = new DynamicMethod("Calc", 
                                        t,
                                        new Type[] {t, t, t, t},
-                                       typeof(Calculator));
+                                       t);
             gen = method.GetILGenerator();
             position = 0;
             GenerateCode();
