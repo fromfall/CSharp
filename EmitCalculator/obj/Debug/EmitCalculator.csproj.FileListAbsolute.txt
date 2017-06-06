@@ -1,0 +1,10 @@
+C:\CSharpWorks\EmitCalculator\EmitCalculator\bin\Debug\EmitCalculator.exe
+C:\CSharpWorks\EmitCalculator\EmitCalculator\bin\Debug\EmitCalculator.pdb
+C:\CSharpWorks\EmitCalculator\EmitCalculator\obj\Debug\EmitCalculator.csprojResolveAssemblyReference.cache
+C:\CSharpWorks\EmitCalculator\EmitCalculator\obj\Debug\EmitCalculator.exe
+C:\CSharpWorks\EmitCalculator\EmitCalculator\obj\Debug\EmitCalculator.pdb
+X:\CSharp\EmitCalculator\bin\Debug\EmitCalculator.exe
+X:\CSharp\EmitCalculator\bin\Debug\EmitCalculator.pdb
+X:\CSharp\EmitCalculator\obj\Debug\EmitCalculator.csprojResolveAssemblyReference.cache
+X:\CSharp\EmitCalculator\obj\Debug\EmitCalculator.exe
+X:\CSharp\EmitCalculator\obj\Debug\EmitCalculator.pdb
