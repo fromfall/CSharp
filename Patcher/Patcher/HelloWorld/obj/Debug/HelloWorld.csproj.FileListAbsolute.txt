@@ -1,0 +1,5 @@
+C:\CSharpWorks\Patcher\Patcher\HelloWorld\bin\Debug\HelloWorld.exe
+C:\CSharpWorks\Patcher\Patcher\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\CSharpWorks\Patcher\Patcher\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+C:\CSharpWorks\Patcher\Patcher\HelloWorld\obj\Debug\HelloWorld.exe
+C:\CSharpWorks\Patcher\Patcher\HelloWorld\obj\Debug\HelloWorld.pdb

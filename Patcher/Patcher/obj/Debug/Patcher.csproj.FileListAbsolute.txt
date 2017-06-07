@@ -1,0 +1,5 @@
+C:\CSharpWorks\Patcher\Patcher\bin\Debug\Patcher.exe
+C:\CSharpWorks\Patcher\Patcher\bin\Debug\Patcher.pdb
+C:\CSharpWorks\Patcher\Patcher\obj\Debug\Patcher.csprojResolveAssemblyReference.cache
+C:\CSharpWorks\Patcher\Patcher\obj\Debug\Patcher.exe
+C:\CSharpWorks\Patcher\Patcher\obj\Debug\Patcher.pdb

@@ -1,0 +1,14 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="patch" type="DotNetProject" factoryName=".NET Project">
+    <option name="PROJECT_PATH" value="$PROJECT_DIR$/Patcher.csproj" />
+    <option name="PROJECT_KIND" value="Console" />
+    <option name="PROJECT_TFM" value=".NETFramework,Version=v4.5" />
+    <option name="EXE_PATH" value="$PROJECT_DIR$/bin/Debug/Patcher.exe" />
+    <option name="PROGRAM_PARAMETERS" value="C:\CSharpWorks\Patcher\Done\HelloWorld.exe &quot;C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.1 Tools\ildasm.exe&quot; C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ilasm.exe" />
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bin/Debug" />
+    <option name="USE_MONO" value="0" />
+    <option name="USE_EXTERNAL_CONSOLE" value="0" />
+    <envs />
+    <method />
+  </configuration>
+</component>
